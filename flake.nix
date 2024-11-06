@@ -45,6 +45,7 @@
               cmake
               expat
               # file
+              fontconfig
               freetype
               pkg-config
             ];
